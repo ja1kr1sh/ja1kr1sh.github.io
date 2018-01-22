@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background-image: url("http://www.misucell.com/data/out/12/IMG_475714.png");
+	background-image: url("9zOvYAhXJaxQKHXMkD2gQjRwIBw&url=http%3A%2F%2Fwww.kinyu-z.net%2Fgroup%2Fwallpaper-technology%2F&psig=AOvVaw0GBv6tToPpKkZTRIjnDrz-&ust=1516711376105132");
 	background-attachment: fixed;
   font: 18px/1.4 $helvetica;
   color: #fff;
@@ -288,3 +288,10 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
