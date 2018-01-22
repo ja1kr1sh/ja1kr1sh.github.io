@@ -21,7 +21,7 @@ body {
 	background-image: url("http://getwallpapers.com/wallpaper/full/2/d/a/244589.jpg");
 	background-attachment: fixed;
   font: 18px/1.4 $helvetica;
-  color: #000000;
+  color: #fff;
 }
 
 .container {
@@ -193,7 +193,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: #000000;
+  color: #fff;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -203,7 +203,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #000000;
+  color: #fff;
   font-size: 16px;
 
   @include mobile {
