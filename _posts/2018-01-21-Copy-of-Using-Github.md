@@ -1,5 +1,5 @@
 ---
-title: Blog 1
+title: Blog 2
 layout: post
 author: jai.magar
 permalink: /copy-of-using-github/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Starting Out with the fuse boxes.</td>
+    <td>Fuze box coding.</td>
     <td>Date</td>
-    <td>15/01/18</td>
+    <td>22/01/18</td>
   </tr>
 </table>
 
@@ -23,12 +23,12 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To have completed sections 1.1 and 1.2 of the fuse box guide.</td>
+    <td>To have completed sections 1.2 and above</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>Yes and I even got further.</td>
+    <td>yes</td>
   </tr>
 </table>
 
@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>In today's lesson we got into our pairs and we started doing work on our fuze boxes to start one person was reading out of the fuse box guide while the other did the coding and from there we just kept on switching and every ten minutes Mr Ampha-Korsa would say switch which meant that the the person who was coding would read and the person who was reading would code and this worked well because it meant that everyone got to have a go. The strategies that were effective where that both of us got to use the manual because let’s say one person said something but when the next person read they realised that the person before them said something incorrectly another thing that worked well was communicating with other pairs and now this meant that if we were stuck the pair next to us could help us so that we got to do everything them and the other pairs in the room where doing.</td>
+    <td>In today's lesson me and my partner and my partner were abit behind because last week we did not get to save our work onto our pen drives because we couldn’t figure out how so when everybody else got there fuze box they were already on tasks 1.3 and above where as me and my partner had to start from task 1.1 and the way me and my friend learnt from this is that we decided to stop coding about 2-5 minutes before everyone else so that gave us time to save our work on our own drives and the strategies that where affected was when me and my friend where behind we decided to just put our heads down and have no arguments or some minor setbacks otherwise we would just be more behind.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to </td>
   </tr>
   <tr>
-    <td>What limited my learning was that we had to start according about 10-15 minutes Later than everyone else because the power plug for our fuse box wasn’t working but we thought it was the fuse box so we kept changing fuse box but by the time we realised it was the power cable everyone else had already started. So the habit I need to work on is don’t always think that the most obvious thing is the answer because sometimes you have to look a little deeper.</td>
+    <td>What limited my learning was that my partner kept on stressing out that we wouldn’t get it done on time and this limited my learning because instead of writing the code I had to tell him it was ok and we would get it done if we just kept on focusing. The habit I need to work on is not rushing because if I rush I could type in the wrong price of code and the we would have to waste time by going and fixing it so that is something I need to work on the the weeks ahead.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <td>What will I change for next time? How will I improve </td>
   </tr>
   <tr>
-    <td>That me and my partner think about the harder things rather than the easier things so we don’t miss out on any of our learning time and that me and my partner actually save our work we did in the lesson on our pen drives instead of not saving them. And I will improve my learning by asking Mr Ampher-Korsa for help when we’re stuck and we don’t what to and so that we are not wasting any of our lesson time.</td>
+    <td>what I will change for next week is asking the people around me and my partner for help so that instead of doing everything on by ourselves we have people who have already done it giving us advice on what we could do to perhaps make something we did better. And I will improve by listening to what my partner says because I could think that whatever I say is right but then when he tells me what he thinks I will think he is wrong but sometimes as we get further through whet we are doing we will realise that he was right and I was wrong and then this sets us brackets quit abit because then we have to go and fix rhe</td>
   </tr>
 </table>
 
