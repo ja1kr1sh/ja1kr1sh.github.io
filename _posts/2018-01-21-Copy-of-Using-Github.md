@@ -53,7 +53,7 @@ published: true
     <td>What will I change for next time? How will I improve </td>
   </tr>
   <tr>
-    <td>what I will change for next week is asking the people around me and my partner for help so that instead of doing everything on by ourselves we have people who have already done it giving us advice on what we could do to perhaps make something we did better. And I will improve by listening to what my partner says because I could think that whatever I say is right but then when he tells me what he thinks I will think he is wrong but sometimes as we get further through whet we are doing we will realise that he was right and I was wrong and then this sets us brackets quit abit because then we have to go and fix rhe</td>
+    <td>That me and my partner think about the harder things rather than the easier things so we don’t miss out on any of our learning time and that me and my partner actually save our work we did in the lesson on our pen drives instead of not saving them. And I will improve my learning by asking Mr Ampher-Korsa for help when we’re stuck and we don’t what to and so that we are not wasting any of our lesson time.</td>
   </tr>
 </table>
 
