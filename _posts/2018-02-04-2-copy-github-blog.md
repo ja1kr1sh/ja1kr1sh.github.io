@@ -23,7 +23,7 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To have completed sections 1.1 and 1.2 of the fuse box guide.</td>
+    <td>To have completed sections 1.2 and above.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
