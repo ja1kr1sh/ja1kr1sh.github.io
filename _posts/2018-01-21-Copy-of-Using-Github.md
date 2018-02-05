@@ -1,5 +1,5 @@
 ---
-title: Blog 2
+title: Blog 1
 layout: post
 author: jai.magar
 permalink: /copy-of-using-github/
