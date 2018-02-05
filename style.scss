@@ -18,17 +18,13 @@ html {
 }
 
 body {
-	background-image: url("http://getwallpapers.com/wallpaper/full/2/d/a/244589.jpg");
-	background-attachment: fixed;
+  background-image: url(http://getwallpapers.com/wallpaper/full/2/d/a/244589.jpg);
+  background-attachment: fixed;
   font: 18px/1.4 $helvetica;
-  color: #fff;
+  color: #ff0000;  
 }
-
 .container {
-  //margin: 0 auto;
-  //max-width: 740px;
-  //padding: 0 10px;
-  //width: 100%;
+
   box-shadow: 20px 20px 10px rgba(51, 51, 0, 0.7);
   margin: 0 auto;
   max-width: 850px;
@@ -42,22 +38,22 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: #fff;
+  color: #00ffff;
   font-weight: bold;
-
+	
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
 
   @include mobile {
-    line-height: 1.4;
+  line-height: 1.4;
   }
 }
 
 h1 {
   font-size: 30px;
-  a {
-    color: inherit;
+a {
+  color: inherit;
   }
 }
 
@@ -71,7 +67,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: #47b300;
 }
 
 p {
@@ -79,11 +75,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: #00ffff;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+  color: #ff0000;
   }
 }
 
@@ -120,23 +116,61 @@ img {
   max-width: 100%;
 }
 
+table {
+    width: 100%;
+}
+
+th {
+   color: black;
+   background: rgba(255, 255, 0, 0.6);
+   height:50px;
+   vertical-align: middle;
+}
+
+table, th, td {
+   border: 2px solid black;
+   background-color:rgba(255, 255, 0, 0.6);
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+
+td {
+    vertical-align: center;
+}
+
+/* unvisited link */
+a:link {
+    color: #00ffff;
+}
+
+/* visited link */
+k:visited {
+    color: #00ffff;
+}
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
-  max-width: none;
+    max-width: none;
 }
 
 .date {
-  font-style: italic;
-  color: $gray;
+    font-style: italic;
+    color: #ff0000;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
+  color: #00ffff;
   background: $lightGray;
 }
 ::selection {
-  color: $black;
+  color: #00ffff;
   background: $lightGray;
 }
 
@@ -202,7 +236,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: #fff;
+  color: #00ffff;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -212,7 +246,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #fff;
+  color: #00ffff;
   font-size: 16px;
 
   @include mobile {
@@ -235,14 +269,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: #00ffff;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: #00ffff;
     }
   }
 }
@@ -252,7 +286,7 @@ nav {
 //
 
 .posts > .post {
-  padding-bottom: 2em;
+  padding: 2px;
   border-bottom: 1px solid $lightGray;
 }
 
@@ -266,11 +300,11 @@ nav {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: $gray;
+    color: #00ffff;
     font-size: 22px;
     font-style: italic;
   }
-
+	
   .comments {
     margin-top: 10px;
   }
@@ -297,10 +331,3 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
-table {
-    border-collapse: collapse;
-}
-
-table, th, td {
-    border: 1px solid #ff6347;
-}
