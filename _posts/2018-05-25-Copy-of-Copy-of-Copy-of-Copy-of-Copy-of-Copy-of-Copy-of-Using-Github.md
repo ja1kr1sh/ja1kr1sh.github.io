@@ -1,5 +1,5 @@
 ---
-title: Python week 3
+title: Python week three
 layout: post
 author: jai.magar
 permalink: /copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-using-github/
